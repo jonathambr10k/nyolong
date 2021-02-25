@@ -343,16 +343,6 @@ function kyun(seconds){
   return `*${pad(hours)} Jam ${pad(minutes)} Menit ${pad(seconds)} Detik*`
 }
 
-// info bot 
-const bottt = (prefix) => {
-return `
-*Bot Sedang Perbaikan/Di Private Oleh Owner Karena Ada Kendala*\n\n *Mohon Pengertiannya*
-Sekali Lagi Maaf
-
-*Silahkan Chat Owner Untuk Mempublic Bot Dengan Cara ${prefix}bott aktif/nonaktif* \n\nOwner : wa.me/628990542731
-`
-}
-exports.bottt = bottt
 // donasi menu
 const donasi = (name) => { 
 	return `       
