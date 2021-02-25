@@ -1,4 +1,4 @@
-### I'm DimS Gift Me Stars 🌟 
+### I'm FDL Gift Me Stars 🌟 
 
 ## Tools
 
@@ -219,7 +219,7 @@ Follow The Steps Below!
 * [NURUTOMO](https://github.com/nurutomo)
 * [NazwaS](https://github.com/nazwaS)
 * [FXC7](https://github.com/Fxc7)
-* [FXC7 OFFICIAL TEAM]
+* [FDL BOT OFFICIAL]
 
 
 * [Req Fitur](https://wa.me/628990542731)
