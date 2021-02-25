@@ -2,7 +2,7 @@
 const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam, tanggal) => { 
 	return `
 	
-┌──「 *FDL BOT* 」
+┌──────「 *FDL BOT* 」
 │
 ├◪ *NAMA USER* : *${pushname2}*
 ├◪ *LIMIT* : *${limitt} PERHARI*
@@ -11,8 +11,6 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *TANGGAL* : *${tanggal}*
 ├◪ *VERSION* : *1.3.0*
 ├◪ *USER TERDAFTAR* : *${user.length} User*
-├◪ *Youtube* : *${yt}*
-├◪ *Instagram* : *${instagram}*
 │
 ╰─────────────────────
 
@@ -35,7 +33,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ╰─────────────────────
 
 
-͏͏͏͏͏͏͏͏͏͏͏͏͏͏╭──────「 *MEDIA DOWNLOADER* 」
+͏͏͏͏͏͏͏͏͏͏͏͏͏͏╭──────「 *DOWNLOADER* 」
 │
 ├◪ *${prefix}tiktokstalk username*
 ├◪ *${prefix}igstalk fdl_ganz*
@@ -149,7 +147,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ╰─────────────────────
 
 
-╭──────「 *OTHERS FUN & GAME* 」
+╭──────「 *OTHERS FUN* 」
 │
 ├◪ *${prefix}anjing*
 ├◪ *${prefix}kucing*
