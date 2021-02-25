@@ -14,7 +14,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *Youtube* : *${yt}*
 ├◪ *Instagram* : *${instagram}*
 │
-╰────────────────────────
+╰─────────────────────
 
 
 ╭──────「 *ABOUT BOT* 」
@@ -32,7 +32,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *${prefix}premiumlist*
 ├◪ *${prefix}bahasa*
 │
-╰────────────────────────
+╰─────────────────────
 
 
 ͏͏͏͏͏͏͏͏͏͏͏͏͏͏╭──────「 *MEDIA DOWNLOADER* 」
@@ -52,7 +52,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *${prefix}trendtwit*
 ├◪ *${prefix}google berita terkini*
 │
-╰────────────────────────
+╰─────────────────────
 
 
 ╭──────「 *MAKER MENU* 」
@@ -89,7 +89,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *${prefix}tomp3*
 ├◪ *${prefix}ocr*
 │
-╰──────────────────────────
+╰───────────────────────
 
 
 ╭───────「 *GROUP ONLY* 」
@@ -135,7 +135,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ╰────────────────────────
 
 
-╭───────「 *GROUP ONLY ADMIN* 」
+╭───────「 *GROUP & ADMIN* 」
 │
 ├◪ *${prefix}nsfw On/Off*
 ├◪ *${prefix}nsfwloli*
@@ -146,7 +146,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *${prefix}simih On/Off*
 ├◪ *${prefix}bott on/off*
 │
-╰────────────────────────
+╰─────────────────────
 
 
 ╭──────「 *OTHERS FUN & GAME* 」
@@ -178,10 +178,10 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *${prefix}hekerbucin*
 ├◪ *${prefix}katailham*
 │
-╰────────────────────────
+╰─────────────────────
 
 
-╭──────「 *OTHERS FUN & GAME* 」
+╭──────「 *OTHERS FUN* 」
 │
 ├◪ *${prefix}jarak Banyuwangi/Surabaya*
 ├◪ *${prefix}translate en/Apa kabar?*
@@ -208,7 +208,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *${prefix}infoalamat jalan Banyuwangi*
 ├◪ *${prefix}playstore WhatsApp*
 │
-╰───────────────────────────
+╰────────────────────────
 
 
 ╭──────「 *FUN MENU* 」
@@ -227,7 +227,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *${prefix}searchfilm Doraemon*
 ├◪ *${prefix}happymod lightroom*
 │
-╰────────────────────────
+╰─────────────────────
 
 
 ╭──────「 *NSFW MENU* 」
@@ -239,7 +239,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *${prefix}xvideos japan*
 ├◪ *${prefix}nekopoi oni chichi*
 │
-╰────────────────────────
+╰─────────────────────
 
 
 ╭──────「 *ISLAM* 」
@@ -249,7 +249,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *${prefix}quranlist*
 ├◪ *${prefix}quransurah 1*
 │
-╰────────────────────────
+╰─────────────────────
 
 
 ╭──────「 *FIND ME SIR* 」
@@ -269,7 +269,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *${prefix}tinyurl link*
 ├◪ *${prefix}bitly link*
 │
-╰────────────────────────
+╰─────────────────────
 
 
 ╭──────「 *AUTO SPAM* 」
@@ -277,7 +277,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *${prefix}spamcall 083xxxxxxxxx*
 ├◪ *${prefix}spamgmail contoh@gmail.com*
 │
-╰────────────────────────
+╰─────────────────────
 
 
 ╭──────「 *SOUND* 」
@@ -287,7 +287,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *${prefix}bernyanyi*
 ├◪ *${prefix}anjay*
 │
-╰────────────────────────
+╰─────────────────────
 
 
 ╭─────────「 *OWNER ONLY* 」
@@ -312,7 +312,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *${prefix}getses*
 ├◪ *${prefix}leave*
 │
-╰────────────────────────
+╰─────────────────────
 
 
 ╭────────「 *PREMIUM ONLY* 」
