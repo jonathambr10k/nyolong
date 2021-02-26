@@ -12,10 +12,10 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├◪ *VERSION* : *1.3.0*
 ├◪ *USER TERDAFTAR* : *${user.length} User*
 │
-╰─────────────────────
+└─────────────────────
 
 
-╭──────「 *ABOUT BOT* 」
+┌──────「 *ABOUT BOT* 」
 │
 ├◪ *${prefix}report lapor bug*
 ├◪ *${prefix}info*
