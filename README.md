@@ -18,7 +18,7 @@ Follow The Steps Below!
 > pkg upgrade -y
 > pkg install git -y
 > git clone https://github.com/FDLBOT/nyolong
-> cd termux-bot-whatsapp
+> cd nyolong
 > npm cache clear
 > bash install.sh
 > npm audit fix
