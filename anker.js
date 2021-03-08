@@ -75,7 +75,7 @@ botinfo = "MAU SEWA DONASI DLU YA KAK:)"
 limitt = 9999999999
 memberLimit = 2
 ban = [""]
-premium = ["5599138474@s.whatsapp.net"5511949542619@s.whatsapp.net"]
+premium = ["553599138474@s.whatsapp.net"5511949542619@s.whatsapp.net"]
 +55 11 9
 function kyun(seconds){
   function pad(s){
