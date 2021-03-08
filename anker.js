@@ -64,7 +64,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
             + 'FN:FDL BOT\n'
             + 'ORG:Owner Gans;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=628990542731:+62 899-0542-731\n'
+            + 'TEL;type=CELL;type=VOICE;waid:\n'
             + 'END:VCARD'
 
 prefix = "#"
@@ -75,8 +75,8 @@ botinfo = "MAU SEWA DONASI DLU YA KAK:)"
 limitt = 9999999999
 memberLimit = 2
 ban = [""]
-premium = ["628990542731@s.whatsapp.net"]
-
+premium = ["5599138474@s.whatsapp.net"5511949542619@s.whatsapp.net"]
++55 11 9
 function kyun(seconds){
   function pad(s){
     return (s < 10 ? '0' : '') + s;
@@ -456,7 +456,7 @@ async function starts() {
 					me = dms.user
 					user.push(sender)
 					uptime = process.uptime()
-					teks = `➽ *Nama Bot* : FDL BOT\n➽ *Owner Bot* : wa.me/628990542731\n➽ *prefix* : | ${prefix} |\n➽ *Total Block* : ${blocked.length}\n➽ *Aktif Sejak* : ${kyun(uptime)}\n\n➽ *Total Pengguna* : ${user.length} User\n➽ *Instagram* : https://www.instagram.com/fdl_ganz\n➽ *Special Thanks To* :\n\n➽ Allah SWT \n➽ MhankBarBar\n➽ Nurutomo\n➽ Monurios\n➽Fxc7\n➽https://github.com/Fxc7/termux-bot-wa`
+					teks = `➽ *Nama Bot* : FDL BOT\n➽ *Owner Bot* : wa.me/553599138474\n➽ *prefix* : | ${prefix} |\n➽ *Total Block* : ${blocked.length}\n➽ *Aktif Sejak* : ${kyun(uptime)}\n\n➽ *Total Pengguna* : ${user.length} User\n➽ *Instagram* : https://www.instagram.com/fdl_ganz\n➽ *Special Thanks To* :\n\n➽ Allah SWT \n➽ MhankBarBar\n➽ Nurutomo\n➽ Monurios\n➽Fxc7\n➽https://github.com/Fxc7/termux-bot-wa`
 					buffer = await getBuffer(me.imgUrl)
 					dms.sendMessage(from, buffer, image, {quoted: mek, caption: teks, contextInfo:{mentionedJid: [me.jid]}})
 					break 
@@ -497,7 +497,7 @@ async function starts() {
 					teks = `╭─「 *TOTAL USER PREMIUM ${name}* 」\n`
 					no = 0
 					for (let prem of premium) {
-						no += 1
+						no += 2
 						teks += `[${no.toString()}] @${prem.split('@')[0]}\n`
 					}
 					teks += `│+ Total User Premium : ${premium.length}\n╰──────⎿ *${name}* ⏋────`
